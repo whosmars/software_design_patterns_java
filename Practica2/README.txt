@@ -1,0 +1,3 @@
+La implementacion de los menus se ha puesto en el metodo atender. Ya que esto nos permitia encapsular los comportamientos del robot donde "se ven más elegantes", prueba de esto se da en el Main de la practica, el cual solo manda a llamar los estados disponibles del Robot.
+Se ha agregado un atributo Hamburguesa a la clase robot, para que lleve registro de la orden que el cliente le pidio
+Se le pedira oprima la misma tecla más de una vez en algunos estados. Por ejemplo, las Hamburguesas "tardan en cocinarse, por lo que presionara "5" más de una vez para que se termine de cocinar.
